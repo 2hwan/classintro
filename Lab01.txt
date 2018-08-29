@@ -1,0 +1,8 @@
+</head>
+<body>
+  <p>Hello world. This is my first website!</p>
+  <p>Hello my name is Junghwan Lee</p>
+  <p>I'm from South Korea and my major is Computer Science.</p>
+  <p>Nice to meet you!.</p>
+</body>
+</html>
